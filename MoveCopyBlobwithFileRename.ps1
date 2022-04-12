@@ -2,7 +2,6 @@
 ##*******************************************************************************##
 
 # Description:-Copy\Move and Rename Blob from one container to another ##
-##**Uncomment line 36 to make this script Move and Delete**##
 
 ## Example - Prefix Blob with characters to ensure file name of 15 Characters ##
 ## Author - Rakesh Sharma - sharma_rakesh@msn.com
