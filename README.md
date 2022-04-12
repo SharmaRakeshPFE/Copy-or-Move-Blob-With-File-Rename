@@ -19,7 +19,7 @@ Script can perform both copy and move (Copy and Delete) operations across contai
 
 Insert gif or link to demo
 
-![Demo!](https://photos.app.goo.gl/bp6hX6ZyKCPYg58g8)
+![Demo!](https://photos.app.goo.gl/ADsKkfGGRXbnUMJF8)
 
 ## Acknowledgements
  - [Github Refrence ](https://github.com/Azure-Samples/storage-blobs-dotnet-rename-blob)
