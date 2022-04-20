@@ -35,10 +35,10 @@ Process
         {
             
 
-            $blobCopyAction = Start-AzureStorageBlobCopy  `
-            -ICloudBlob $Blob.ICloudBlob `
-            -DestBlob $NewName `
-            -Context $Blob.Context `
+            $blobCopyAction = Start-AzureStorageBlobCopy  
+            -ICloudBlob $Blob.ICloudBlob 
+            -DestBlob $NewName 
+            -Context $Blob.Context 
             -DestContainer $DestContainer -Force
 
             $status = $blobCopyAction | Get-AzureStorageBlobCopyState
